@@ -2,4 +2,4 @@
 Generic function that performs Gibbs sampling for Latent Semeantic Analysis (LSA).
 
 Implements Gibbs sampling to reporoduce work from "Probabilistic Topic Models" by
-% Mark Steyvers and Tom Griffiths
+Mark Steyvers and Tom Griffiths
